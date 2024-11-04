@@ -17,7 +17,6 @@ buffer_distance_string = f"{buffer_distance} meters"
 # String variable that sets the path and filename of where the buffer tool should write its output
 output_1d = f"V:/ENV859_PS4/Scratch/buff_{buffer_distance}m.shp"
  
-
 # Overwrite output
 arcpy.env.overwriteOutput = True
 
