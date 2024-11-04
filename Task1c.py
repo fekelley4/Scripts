@@ -1,6 +1,5 @@
 # Task 1c - Enabling user input
 
-
 # Import modules
 import arcpy
 

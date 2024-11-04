@@ -1,6 +1,5 @@
 # Task 1d - Adding auto-generated output names
 
-
 # Import modules
 import arcpy
 

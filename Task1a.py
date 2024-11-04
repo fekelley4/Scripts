@@ -1,6 +1,5 @@
 # Task 1a - Creating the initial buffer script
 
-
 # Import modules
 import arcpy
 

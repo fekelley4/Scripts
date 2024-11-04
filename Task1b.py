@@ -1,6 +1,5 @@
 # Task 1b - Setting environment values in your script
 
-
 # Import modules
 import arcpy
 
