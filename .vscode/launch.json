@@ -10,6 +10,7 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
+            "justMyCode": true,
             "args": ["1000","V:/ENV859_PS4/Scratch/StrmBuff1km.shp"]
         }
     ]
